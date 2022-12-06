@@ -30,7 +30,7 @@ public class DmlDemo {
         acc.name = 'salesforce inc.';
 
         update acc;
-        jjkhjkhjhjjhk;
+    
 
     }
    
